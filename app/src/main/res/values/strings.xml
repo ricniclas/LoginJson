@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginJson</string>
+    <string-array name="itens">
+        <item>Jogo</item>
+        <item>Controle</item>
+        <item>Cadeira</item>
+    </string-array>
+</resources>
